@@ -1,4 +1,4 @@
-# Android Open Souce Projects
+# Android Open Souce Apps
 ---
 
 | App Name | Description | Major Language | Download |
